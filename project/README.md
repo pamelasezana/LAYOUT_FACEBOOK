@@ -1,0 +1,1 @@
+O layout foi desenvolvido como forma de aprendizado sobre HTML e CSS
